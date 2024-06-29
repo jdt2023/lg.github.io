@@ -84,3 +84,25 @@ article {
 article h3 {
     margin-top: 0;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 1em;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin-bottom: 1em;
+}
+
+iframe {
+    width: 100%;
+    max-width: 600px;
+    border: none;
+    display: block;
+    margin-bottom: 1em;
+}
